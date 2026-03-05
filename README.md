@@ -15,11 +15,11 @@ Technical Stack: Power BI, Time-Series Modeling, Conditional Formatting, Root-Ca
 
 ​ - Hub Performance Benchmarking: Comparative analysis of major aviation hubs (e.g., Atlanta, Chicago) to identify infrastructure bottlenecks.
 
- - ​Conditional Formatting Logic: Implemented color-coded threshold alerts to immediately flag cities where on-time performance dropped below 50%.
+ - Conditional Formatting Logic: Implemented color-coded threshold alerts to immediately flag cities where on-time performance dropped below 50%.
 
 ​Key Metrics:
 
-​ - Data Scale: 1.95 Million flight records analyzed.
+ - Data Scale: 1.95 Million flight records analyzed.
 
  - ​Operational Health: 58% On-Time Performance vs. 40.5% Delay Rate.
   

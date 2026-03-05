@@ -9,9 +9,9 @@ Technical Stack: Power BI, Time-Series Modeling, Conditional Formatting, Root-Ca
 
  - ​Operational KPI Dashboarding: Built a high-density KPI layer tracking 1.95M flights with real-time-style status indicators (Delayed vs. Canceled vs. On-Time).
 
-​ - Delay Attribution Modeling: Categorized 790K delays into specific buckets (Weather, Carrier, NAS, Security) to isolate controllable vs. uncontrollable operational risks.
+ - Delay Attribution Modeling: Categorized 790K delays into specific buckets (Weather, Carrier, NAS, Security) to isolate controllable vs. uncontrollable operational risks.
 
-​ - Sparkline Trend Analysis: Integrated micro-charts (Sparklines) to visualize the volatility of cancellations over time, revealing specific peak-delay windows.
+ - Sparkline Trend Analysis: Integrated micro-charts (Sparklines) to visualize the volatility of cancellations over time, revealing specific peak-delay windows.
 
 ​ - Hub Performance Benchmarking: Comparative analysis of major aviation hubs (e.g., Atlanta, Chicago) to identify infrastructure bottlenecks.
 

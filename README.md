@@ -24,3 +24,6 @@ This dashboard tracks the airlines and delay in flight schedule and reflect same
  - ​Operational Health: 58% On-Time Performance vs. 40.5% Delay Rate.
   
  - ​Disruption Insight: Identified Weather as a secondary cause compared to systemic NAS/Carrier delays.
+
+🔗Video Link :
+https://drive.google.com/file/d/1KOJKTdlulbeRy9IKvNOai6e7FhZh19d2/view?usp=drivesdk
